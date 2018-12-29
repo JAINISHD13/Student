@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\bin\Debug\Student.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\bin\Debug\Student.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\bin\Debug\Registration.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\bin\Debug\Registration_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.Home.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.mainHome.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.update.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Student\Student\obj\Debug\Student.GridViewData.resources
